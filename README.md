@@ -1,6 +1,6 @@
 ## Opa, eu sou a RaiRai! ☺️
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando C#
 - 😄 Pronomes: ela/dela
 
 
