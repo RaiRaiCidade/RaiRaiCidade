@@ -1,6 +1,6 @@
 ## Opa, eu sou a RaiRai! ☺️
 
-- 🌱 Estudando Kotlin & Python 🫣
+- 🌱 Estudando Kotlin, JavaScript and Unity🫣
 - 😄 Pronomes: ela/dela
 
 
